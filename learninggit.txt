@@ -8,4 +8,4 @@ Git is free software.
 "seventh add contents"
 "add eighth contents"
 "create a new branch is quick and simple"
-
+"add merge"
