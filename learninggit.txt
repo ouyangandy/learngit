@@ -6,3 +6,4 @@ Git is free software.
 "fifth add contents"
 "sixth add contents"
 "seventh add contents"
+"add eighth contents"
