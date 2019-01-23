@@ -2,8 +2,3 @@ Git is a version control system.
 "third add contents"
 "fourth add contents"
 "fifth add contents"
-"sixth add contents"
-"seventh add contents"
-"add eighth contents"
-"create a new branch is quick and simple"
-"add merge"
