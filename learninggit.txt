@@ -7,3 +7,4 @@ Git is free software.
 "sixth add contents"
 "seventh add contents"
 "add eighth contents"
+"create a new branch is quick"
